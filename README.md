@@ -4,6 +4,12 @@
 ## Description: 
 Repository for the sparkproject gas prices. Our purpose is to study the evolution of gaz prices on a period of 2 years and to explain the price given previous prices.
 
+### Date : Friday 21 December
+### Language : Python
+### Context : Mini Project For Course of Big Data
+
+
+
 ## Getting Started
 
 ### Prerequisites
