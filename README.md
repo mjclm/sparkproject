@@ -21,4 +21,4 @@ Include a section for credits in order to highlight and link to the authors of y
 # License: 
 Finally, include a section for the license of your project. For more information on choosing a license, check out GitHub’s licensing guide!
 
-:+1:
+:penguin:
