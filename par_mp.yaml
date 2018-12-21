@@ -1,0 +1,8 @@
+# Location on GitHub
+loc : 'https://github.com/rvm-courses/GasPrices/raw/master/'
+
+# First year to process
+first_year : 2016
+
+# Last year to process
+last_year : 2017
