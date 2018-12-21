@@ -32,6 +32,9 @@ sc = pyspark.SparkContext()
 ```
 
 ### maps
+Here, we use pygal to create map plot.
+
+http://www.pygal.org/en/stable/
 
 ```bash
 pip install pygal
