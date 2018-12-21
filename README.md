@@ -11,6 +11,16 @@ Repository for the sparkproject gas prices.
 ```bash
 pip install pyspark
 ```
+- change environment variable from Python and launch SparkContext
+```python
+os.environ['JAVA_HOME'] = 'C:\Program Files\Java\jdk1.8.0_144'
+os.environ['SPARK_HOME'] = 'C:\\Users\\Name\\spark-2.4.0-bin-hadoop2.7'
+os.environ['SPARK_LOCAL_HOSTNAME'] = 'localhost'
+os.environ['SPARK_LOCAL_IP'] = 'LOCAl_IP'
+sc = pyspark.SparkContext()
+```
+
+You are ready !
 
 **Contents:**
 * [Compatibility](#compatibility)
