@@ -1,12 +1,19 @@
 # sparkproject
 
-# Description: 
+
+## Description: 
 Repository for the sparkproject gas prices. Our purpose is to study the evolution of gaz prices on a period of 2 years and to explain the price given previous prices.
 
-# Installation: 
+## Getting Started
+
+### Prerequisites
 
 - Download apache spark version 2.4.0 at https://spark.apache.org/downloads.html
 - Unzip file
+- Download Java SE Development Kit 8u191 at https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+
+### Installation
+
 - Download pyspark
 ```bash
 pip install pyspark
@@ -22,10 +29,6 @@ sc = pyspark.SparkContext()
 
 You are ready !
 
-
-Compatibility
--------------
-
 ### Spark
 PySpark is tested to be compatible with Spark 1.4, 1.5 and 1.6. 
 
@@ -33,6 +36,9 @@ PySpark is tested to be compatible with Spark 1.4, 1.5 and 1.6.
 
 
 ### Configuration
+
+# Authors
+- Fanny DOUCHET & Mickael JUILLET
 
 Problems / ideas?
 -----------------
