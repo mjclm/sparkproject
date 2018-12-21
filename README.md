@@ -6,6 +6,7 @@ Repository for the sparkproject gas prices.
 # Installation: 
 [![pyspark version](https://badge.fury.io/py/pyspark.svg)](https://badge.fury.io/py/pyspark)
 [![zipfile36 version](https://badge.fury.io/py/zipfile36.svg)](https://badge.fury.io/py/zipfile36)
+![pyspark version](https://img.shields.io/appveyor/ci/gruntjs/grunt.svg?style=flat-square)
     
 Installation is the next section in an effective README. Tell other users how to install your project locally. Optionally, include a gif to make the process even more clear for other people.
 
