@@ -29,19 +29,9 @@ sc = pyspark.SparkContext()
 
 You are ready !
 
-### Spark
-PySpark is tested to be compatible with Spark 1.4, 1.5 and 1.6. 
-
-### Python
-
-
-### Configuration
 
 # Authors
 - Fanny DOUCHET & Mickael JUILLET
 
-Problems / ideas?
------------------
-Feel free to use the issue tracker propose new functionality and / or report bugs.
 
 
