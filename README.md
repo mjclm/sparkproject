@@ -22,17 +22,6 @@ sc = pyspark.SparkContext()
 
 You are ready !
 
-**Contents:**
-* [Compatibility](#compatibility)
-* [Using with PySpark](#using-with-pyspark)
-* [Using with PySpark shell](#using-with-pyspark-shell)
-* [Building](#building)
-* [API](#api)
-* [Examples](#examples)
-* [Problems / ideas?](#problems--ideas)
-* [Contributing](#contributing)
-
-
 
 Compatibility
 -------------
