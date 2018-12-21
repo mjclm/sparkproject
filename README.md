@@ -1,10 +1,7 @@
 # sparkproject
 
 # Description: 
-Repository for the sparkproject gas prices
-
-# Table of Contents: 
-Optionally, include a table of contents in order to allow other people to quickly navigate especially long or detailed READMEs.
+Repository for the sparkproject gas prices. 
 
 # Installation: 
 [![PyPI version](https://badge.fury.io/py/pyspark.svg)](https://badge.fury.io/py/pyspark)
