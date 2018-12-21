@@ -1,7 +1,7 @@
 # sparkproject
 
 # Description: 
-Repository for the sparkproject gas prices. 
+Repository for the sparkproject gas prices. Our purpose is to study the evolution of gaz prices on a period of 2 years and to explain the price given previous prices.
 
 # Installation: 
 
