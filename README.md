@@ -5,7 +5,12 @@ Repository for the sparkproject gas prices.
 
 # Installation: 
 
-Download apache spark at https://spark.apache.org/downloads.html
+Download apache spark version 2.4.0 at https://spark.apache.org/downloads.html
+Unzip file
+Download pyspark
+```bash
+pip install pyspark
+```
 
 **Contents:**
 * [Compatibility](#compatibility)
@@ -23,14 +28,9 @@ Compatibility
 -------------
 
 ### Spark
-PySpark is tested to be compatible with Spark 1.4, 1.5 and 1.6. Feedback on (in-)compatibility is much appreciated.
-
-### Elastic Search
-PySpark Elastic is tested with Elastic Search 2.2.
+PySpark is tested to be compatible with Spark 1.4, 1.5 and 1.6. 
 
 ### Python
-PySpark Elastic is tested with Python 2.7 and Python 3.4.
-
 
 Using with PySpark
 ------------------
