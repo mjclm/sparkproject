@@ -5,9 +5,9 @@ Repository for the sparkproject gas prices.
 
 # Installation: 
 
-Download apache spark version 2.4.0 at https://spark.apache.org/downloads.html
-Unzip file
-Download pyspark
+- Download apache spark version 2.4.0 at https://spark.apache.org/downloads.html
+- Unzip file
+- Download pyspark
 ```bash
 pip install pyspark
 ```
