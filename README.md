@@ -7,8 +7,8 @@ Repository for the sparkproject gas prices
 Optionally, include a table of contents in order to allow other people to quickly navigate especially long or detailed READMEs.
 
 # Installation: 
-.. image:: https://badge.fury.io/py/pyspark.svg
-    :target: https://badge.fury.io/py/pyspark
+[![PyPI version](https://badge.fury.io/py/pyspark.svg)](https://badge.fury.io/py/pyspark)
+    
 Installation is the next section in an effective README. Tell other users how to install your project locally. Optionally, include a gif to make the process even more clear for other people.
 
 # Usage: 
